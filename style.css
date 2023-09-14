@@ -1,0 +1,23 @@
+.titulo {
+    color: red;
+    padding-left: 300px;
+        
+}
+
+#nome {
+    color: pink;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-around   ;
+}
+
+.pog {
+    border: 3px solid pink;
+    text-decoration: none;
+}
