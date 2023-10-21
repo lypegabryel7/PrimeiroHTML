@@ -1,0 +1,54 @@
+.imund {
+    padding-left: 300px;   
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/f6/fe/85/f6fe855ac56992969cd68dc784b2718b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.logoclover{
+    align-items: center;
+}
+.cloverimg {
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
+.clover {
+    padding: 20px;
+}
+.login {
+    border-radius: 10px;
+    background-color: rgb(156, 20, 156);
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+}
+.login h1{
+    font-size: 25px;
+    text-align: center;
+    color: beige;
+    margin-top: 1px;
+    margin-bottom: 30px;
+}
+.login .box-user {
+    position: relative;
+}
+.login .box-user input{
+    width: 100%;
+    padding: 10px 0;
+    outline: none;
+    border: 0;
+    background: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+    margin-bottom: 20px;
+}
+.login .box-user label{
+    padding-top: 5px;
+}
